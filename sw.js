@@ -1,5 +1,5 @@
 /* BJT 어휘·문법 드릴 — offline cache (경어 드릴과 같은 방식). Version is stamped at build time. */
-const VERSION = "f74a8f9240";
+const VERSION = "1c0d2e0e92";
 const CACHE = "bjtg-drill-" + VERSION;
 const FONTS = "bjtg-drill-fonts";
 const AUDIO = "bjtg-audio-1";   // Microsoft Nanami clips — kept across app updates (file names are content hashes)
